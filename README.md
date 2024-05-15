@@ -108,24 +108,4 @@ It tests for the calculateDistance function in Pillar class, isFlip function in 
 ## Sound
 Sound and other graphics and animations are added to enhance the user experience.
 
-## Design Patterns
-- ### Iterator  
-Iterator design pattern is used in Running class and is used to access the ArrayList of running game.
-```java
-Iterator<Game> iterator = RunningGame.getRunningGameIterator();
-RunningGame g = null;
-while (iterator.hasNext()) {
-    g = (RunningGame) iterator.next();
-}
-```
-
-- ### Factory Method
-Functions like createNewStick are present.
-
-- ### Model-View Controller
-There is a controller class which handles the events(mouse click) and executes appropriate functions.
-
-## Note 
-Threads are also implemented in Controller class.
-Link to the github repository - https://github.com/sujalsoni26/AP_Project.git
 
