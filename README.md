@@ -18,7 +18,9 @@ The stick starts to increase from the second press onward.
 ## DEMO
 
 
-https://github.com/SuhaniKalyani/StickHero/assets/119041157/b5da60b9-cf7e-4c4c-99a2-81adeca44b8f
+https://github.com/SuhaniKalyani/StickHero/assets/119041157/11c74dc4-08dc-4ea1-bd53-068dacd219d9
+
+
 
 
 
