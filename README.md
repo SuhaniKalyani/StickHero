@@ -15,6 +15,13 @@ The stick starts to increase from the second press onward.
 
 2.The user will only save one game at a time.
 
+## DEMO
+
+
+https://github.com/SuhaniKalyani/StickHero/assets/119041157/b5da60b9-cf7e-4c4c-99a2-81adeca44b8f
+
+
+
 
 ## How to run the file?
 To run the file, download the zip folder **2022511_2022513.zip**. The code is available in ***demo/src/main/java/com/example/stickhero_2***. There are 12 files , the main file being  **HelloApplication.java** , running which will launch the game.
